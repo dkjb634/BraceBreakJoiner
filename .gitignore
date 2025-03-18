@@ -1,0 +1,68 @@
+# Build Folders
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# User-specific things
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.pidb
+*.svclog
+*.scc
+
+# Recycle Bin used by the project
+*.rsuser
+*.rsg
+
+# Package and extension directories
+.vscode/
+.idea/
+*.vs/
+
+# Logs
+*.log
+*.tlog
+
+# DotNet Specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Dependencies
+*.nuget/
+!packages/*
+*.nuspec
+*.nupkg
+
+# OS or IDE-specific files
+.DS_Store
+*.swp
+Thumbs.db
+
+# Rider specific folders
+.idea/
+*.sln.iml
+
+# Visual Studio Code specific folders
+.vscode/
+
+# JetBrains Rider specific caches
+.idea/
+
+# ASP.NET Identity Database
+*.mdf
+*.ldf
+
+# NUnit and Coverlet
+TestResult*/
+coverage.opencover.xml
+coverage.coverlet.opencover.xml
+
+# Azure Functions
+local.settings.json
+Functions/bin/
+Functions/obj/
